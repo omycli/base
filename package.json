@@ -1,0 +1,30 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "基础模板",
+  "scripts": {
+    "dev": "omycli start",
+    "build": "omycli build"
+  },
+  "dependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.2",
+    "babel-plugin-transform-runtime": "6.23.0",
+    "babel-preset-env": "1.6.1",
+    "preloader.js": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omycli/base.git"
+  },
+  "keywords": [
+    "base",
+    "web"
+  ],
+  "author": "Mr.Ypeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omycli/base/issues"
+  },
+  "homepage": "https://github.com/omycli/base#readme"
+}
