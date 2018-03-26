@@ -13,8 +13,8 @@ class Hello {
 
 const hello = new Hello('Babel')
 
-const $loading = $('#J_loading')
-const $main = $('#J_main')
+const $loading = $('#loading')
+const $main = $('#main')
 const $btn = $('.btn')
 
 $btn.on('touchstart', () => {
